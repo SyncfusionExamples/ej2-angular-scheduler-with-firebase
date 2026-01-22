@@ -42,3 +42,10 @@ Before you begin, ensure you have the following installed:
 ## Running the Application
 
 1. Start the development server: `ng serve`
+
+
+## Output Preview
+![Preview](image.png)
+
+## Troubleshooting
+**License banner:** Obtain and register a Syncfusion license key [Link](https://ej2.syncfusion.com/angular/documentation/licensing/overview).
